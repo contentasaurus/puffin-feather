@@ -1,0 +1,10 @@
+{
+  "name": "pinguinio/puffin-feather",
+  "require": {
+  },
+  "autoload": {
+    "psr-4":{
+      "feather\\": "src/"
+    }
+  }
+}
