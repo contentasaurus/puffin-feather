@@ -2,8 +2,6 @@
 
 namespace feather;
 
-require_once '../init.php';
-
 class test extends assert
 {
 	protected $report;

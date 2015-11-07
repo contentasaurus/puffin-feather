@@ -2,8 +2,6 @@
 
 namespace feather;
 
-require_once '../init.php';
-
 class assert
 {
 	public function assert_array_contains( $array, $what )

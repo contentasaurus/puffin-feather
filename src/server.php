@@ -2,8 +2,6 @@
 
 namespace feather;
 
-require_once '../init.php';
-
 class server
 {
 	protected $tests = array();

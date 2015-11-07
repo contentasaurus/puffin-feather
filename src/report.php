@@ -2,8 +2,6 @@
 
 namespace feather;
 
-require_once '../init.php';
-
 class report
 {
 	protected $num_success = 0;
