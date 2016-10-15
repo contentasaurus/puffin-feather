@@ -1,5 +1,5 @@
 {
-  "name": "pinguinio/puffin-feather",
+  "name": "contentasaurus/puffin-feather",
   "description": "A very small, very lightweight, unit testing framework",
   "license": "MIT",
   "autoload": {
